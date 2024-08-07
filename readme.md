@@ -42,10 +42,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta chaset="utf-8">
-		<tilte>HTML의 기본구조</title>
+		<meta charset="utf-8">
+		<title>HTML의 기본구조<title>
 	</head>
 	<body>
 		1.사이트에서 보여지는 부분입니다.
-	</body>
+	<body>
 </html>
