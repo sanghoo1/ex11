@@ -29,7 +29,11 @@
 
 **웹접근성과 웹표준을 준수하면 사용자에게 접근이 용이하며, 유지보수가 쉽고, 검색엔진 최적화(SEO)에 도움이 됨**
 
-
+## HTML의 정의
+**HTML**(HyperText Markup Language)은 웹을 이루는 가장 기초적인 구성 요소로, 웹 콘텐츠의 의미와 구조를
+ 정의할 때 사용합니다. HTML 이외의 다른 기술은 일반적으로 웹 페이지의 모양/표현
+ ([CSS](https://developer.mozilla.org/ko/docs/Web/CSS)), 또는 기능/동작
+ ([JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript))을 설명하는 데 사용됩니다.
 
 ## HTML의 기본 구조
 
@@ -45,6 +49,5 @@
     
     </html>
 
-### HTML의 정의
-**HTML**(HyperText Markup Language)은 웹을 이루는 가장 기초적인 구성 요소로, 웹 콘텐츠의 의미와 구조를 정의할 때 사용합니다. HTML 이외의 다른 기술은 일반적으로 웹 페이지의 모양/표현 ([CSS](https://developer.mozilla.org/ko/docs/Web/CSS)), 또는 기능/동작 ([JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript))을 설명하는 데 사용됩니다.
+
 
