@@ -38,6 +38,7 @@
 
 
 ## HTML의 기본 구조
+
 <!DOCTYPE html>
 <html>
 	<head>
