@@ -29,6 +29,7 @@
 접근성이 장애를 가진 사람들에게 얼마나 필수적이고, 다양한 상황 속에 있는 모든 사람들에게 도움이 되는지에 대한 예시를 보여주는 7분짜리 비디오를 볼 수 있습니다
 
 
+
 HTML 기본구조
 <!DOCTYPE html>
 <html>
@@ -40,3 +41,7 @@ HTML 기본구조
 		1.사이트에서 보여지는 부분입니다.
 	</body>
 </html>
+
+### HTML의 정의
+**HTML**(HyperText Markup Language)은 웹을 이루는 가장 기초적인 구성 요소로, 웹 콘텐츠의 의미와 구조를 정의할 때 사용합니다. HTML 이외의 다른 기술은 일반적으로 웹 페이지의 모양/표현 ([CSS](https://developer.mozilla.org/ko/docs/Web/CSS)), 또는 기능/동작 ([JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript))을 설명하는 데 사용됩니다.
+
